@@ -1,0 +1,354 @@
+[18:45:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:45:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:45:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:45:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:45:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:45:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:45:32] [main/INFO]: Reloading ResourceManager: Default
+[18:45:33] [Worker-Main-8/INFO]: Loaded 7 recipes
+[18:45:34] [Worker-Main-8/INFO]: Loaded 1137 advancements
+[18:45:36] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[18:45:36] [Server thread/INFO]: Loading properties
+[18:45:36] [Server thread/INFO]: Default game type: SURVIVAL
+[18:45:36] [Server thread/INFO]: Generating keypair
+[18:45:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:45:37] [Server thread/INFO]: Using default channel type
+[18:45:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:45:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:45:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:45:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:45:38] [Server thread/INFO]: Preparing level "world"
+[18:45:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:45:39] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[18:45:39] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:45:39] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:45:49] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:49] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:50] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:45:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:45:52] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[18:45:52] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[18:45:52] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[18:45:53] [Worker-Main-10/INFO]: Preparing spawn area: 58%
+[18:45:53] [Worker-Main-11/INFO]: Preparing spawn area: 72%
+[18:45:54] [Worker-Main-8/INFO]: Preparing spawn area: 73%
+[18:45:54] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[18:45:55] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[18:45:55] [Worker-Main-12/INFO]: Preparing spawn area: 92%
+[18:45:56] [Worker-Main-11/INFO]: Preparing spawn area: 92%
+[18:45:56] [Worker-Main-14/INFO]: Preparing spawn area: 94%
+[18:45:57] [Worker-Main-13/INFO]: Preparing spawn area: 98%
+[18:45:57] [Server thread/INFO]: Time elapsed: 19142 ms
+[18:45:57] [Server thread/INFO]: Done (19.353s)! For help, type "help"
+[18:46:20] [Server thread/INFO]: Caill0u24[/192.168.1.122:64473] logged in with entity id 153 at (735.7851056791691, 63.0, -948.367216735191)
+[18:46:20] [Server thread/INFO]: Caill0u24 joined the game
+[18:47:40] [Server thread/INFO]: Reyxor[/201.220.114.35:58984] logged in with entity id 602 at (1372.82005033292, 64.0, 514.7563323091624)
+[18:47:40] [Server thread/INFO]: Reyxor joined the game
+[18:49:46] [Server thread/INFO]: Caill0u24 has made the advancement [Monster Hunter]
+[18:50:10] [Server thread/INFO]: RorroStaph[/192.168.1.169:56001] logged in with entity id 1996 at (1310.666615210346, 64.0, -1228.5206447952137)
+[18:50:10] [Server thread/INFO]: RorroStaph joined the game
+[18:51:00] [Server thread/WARN]: Reyxor moved too quickly! 8.840789493111743,-2.500288398919963,4.472581285842239
+[18:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
+[18:51:03] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[18:51:03] [Server thread/INFO]: Reyxor left the game
+[18:51:13] [Server thread/INFO]: The difficulty has been set to Hard
+[18:58:06] [Server thread/INFO]: Reyxor[/201.220.114.35:61429] logged in with entity id 4226 at (1428.699999988079, 62.233962693786104, 645.1654988836335)
+[18:58:06] [Server thread/INFO]: Reyxor joined the game
+[19:01:53] [Server thread/INFO]: RorroStaph has made the advancement [A Seedy Place]
+[19:03:58] [Server thread/INFO]: RorroStaph has made the advancement [The Parrots and the Bats]
+[19:04:12] [Server thread/INFO]: RorroStaph lost connection: Disconnected
+[19:04:12] [Server thread/INFO]: RorroStaph left the game
+[19:05:02] [Server thread/INFO]: RorroStaph[/192.168.1.169:56020] logged in with entity id 8948 at (1266.2069006299228, 64.0, -1049.7921866653455)
+[19:05:02] [Server thread/INFO]: RorroStaph joined the game
+[19:09:41] [Server thread/INFO]: chrismeth[/200.83.5.15:64543] logged in with entity id 12173 at (46.5, 63.0, -119.5)
+[19:09:41] [Server thread/INFO]: chrismeth joined the game
+[19:10:22] [Server thread/INFO]: Villager bjr['Villager'/9682, l='ServerLevel[world]', x=1400.30, y=70.51, z=-1263.30] died, message: 'Villager was slain by Zombie'
+[19:10:29] [Server thread/INFO]: <Caill0u24> 711 -367
+[19:10:50] [Server thread/INFO]: RorroStaph lost connection: Disconnected
+[19:10:50] [Server thread/INFO]: RorroStaph left the game
+[19:11:06] [Server thread/INFO]: chrismeth lost connection: Disconnected
+[19:11:06] [Server thread/INFO]: chrismeth left the game
+[19:11:07] [Server thread/INFO]: chrismeth[/200.83.5.15:55912] logged in with entity id 13253 at (48.845036683782475, 66.0, -80.69999998807907)
+[19:11:07] [Server thread/INFO]: chrismeth joined the game
+[19:11:37] [Server thread/INFO]: Caill0u24 lost connection: Disconnected
+[19:11:37] [Server thread/INFO]: Caill0u24 left the game
+[19:11:40] [Server thread/INFO]: <chrismeth> asd
+[19:12:02] [Server thread/INFO]: Caill0u24[/192.168.1.122:55392] logged in with entity id 13842 at (733.6999999880791, 63.0, -936.6999999880791)
+[19:12:02] [Server thread/INFO]: Caill0u24 joined the game
+[19:12:59] [Server thread/INFO]: RorroStaph[/192.168.1.169:56041] logged in with entity id 15083 at (1311.6339939955815, 60.0, -1225.810770302914)
+[19:12:59] [Server thread/INFO]: RorroStaph joined the game
+[19:13:34] [Server thread/INFO]: RorroStaph lost connection: Disconnected
+[19:13:34] [Server thread/INFO]: RorroStaph left the game
+[19:13:39] [Server thread/INFO]: Caill0u24 lost connection: Disconnected
+[19:13:39] [Server thread/INFO]: Caill0u24 left the game
+[19:14:10] [Server thread/INFO]: tioduftpank[/138.99.224.37:3211] logged in with entity id 16081 at (694.5, 71.0, -450.5)
+[19:14:10] [Server thread/INFO]: tioduftpank joined the game
+[19:15:56] [Server thread/INFO]: Happyboxx[/179.56.76.96:62177] logged in with entity id 17632 at (736.050864665886, 69.0, -400.80017061881784)
+[19:15:56] [Server thread/INFO]: Happyboxx joined the game
+[19:17:26] [Server thread/INFO]: tioduftpank has made the advancement [Diamonds!]
+[19:18:08] [Server thread/INFO]: tioduftpank lost connection: Disconnected
+[19:18:08] [Server thread/INFO]: tioduftpank left the game
+[19:18:33] [Server thread/INFO]: chrismeth has made the advancement [Stone Age]
+[19:18:41] [Server thread/INFO]: chrismeth has made the advancement [Getting an Upgrade]
+[19:18:54] [Server thread/INFO]: Caill0u24[/192.168.1.122:64738] logged in with entity id 19330 at (733.6999999880791, 63.0, -936.6999999880791)
+[19:18:54] [Server thread/INFO]: Caill0u24 joined the game
+[19:19:00] [Server thread/INFO]: RorroStaph[/192.168.1.169:58216] logged in with entity id 19774 at (1311.9109937353458, 60.0, -1226.2319805795985)
+[19:19:00] [Server thread/INFO]: RorroStaph joined the game
+[19:19:48] [Server thread/INFO]: chrismeth has made the advancement [Acquire Hardware]
+[19:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19:21:27] [Server thread/INFO]: LilPapel[/181.43.81.187:50256] logged in with entity id 22346 at (1318.8051669563245, 11.0, -898.3000000119209)
+[19:21:27] [Server thread/INFO]: LilPapel joined the game
+[19:22:00] [Server thread/INFO]: <RorroStaph> Hail Klein Von Papier
+[19:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:23:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19:25:15] [Server thread/INFO]: chrismeth lost connection: Disconnected
+[19:25:15] [Server thread/INFO]: chrismeth left the game
+[19:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3555ms or 71 ticks behind
+[19:26:16] [Server thread/INFO]: LilPapel lost connection: Disconnected
+[19:26:16] [Server thread/INFO]: LilPapel left the game
+[19:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:27:53] [Server thread/INFO]: tioduftpank[/138.99.224.37:1885] logged in with entity id 30608 at (749.6898712845065, 68.92159999847412, -421.26763690796713)
+[19:27:53] [Server thread/INFO]: tioduftpank joined the game
+[19:28:23] [Server thread/INFO]: <tioduftpank> w
+[19:28:23] [Server thread/INFO]: <tioduftpank> zzz
+[19:28:24] [Server thread/INFO]: <tioduftpank> zzz
+[19:28:25] [Server thread/INFO]: <tioduftpank> zzz
+[19:28:26] [Server thread/INFO]: Happyboxx lost connection: Disconnected
+[19:28:26] [Server thread/INFO]: Happyboxx left the game
+[19:28:31] [Server thread/INFO]: Caill0u24 lost connection: Disconnected
+[19:28:31] [Server thread/INFO]: Caill0u24 left the game
+[19:28:39] [Server thread/INFO]: Caill0u24[/192.168.1.122:56775] logged in with entity id 31973 at (735.4113568438207, 66.0, -933.9951769661786)
+[19:28:39] [Server thread/INFO]: Caill0u24 joined the game
+[19:28:45] [Server thread/INFO]: Happyboxx[/179.56.76.96:55307] logged in with entity id 32190 at (1120.2658753417388, 68.0, -757.0724126317621)
+[19:28:45] [Server thread/INFO]: Happyboxx joined the game
+[19:29:39] [Server thread/INFO]: tioduftpank was shot by Skeleton
+[19:30:24] [Server thread/INFO]: LilPapel[/181.43.81.187:44771] logged in with entity id 35421 at (1315.9376989774112, 11.0, -873.9731849867461)
+[19:30:24] [Server thread/INFO]: LilPapel joined the game
+[19:31:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:31:26] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1316, y=12, z=-871} gg{x=1316, y=11, z=-871}
+[19:31:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6858ms or 137 ticks behind
+[19:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[19:32:52] [Server thread/INFO]: tioduftpank lost connection: Disconnected
+[19:32:52] [Server thread/INFO]: tioduftpank left the game
+[19:33:49] [Server thread/INFO]: <Caill0u24> 711 -367
+[19:41:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[19:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6589ms or 131 ticks behind
+[19:42:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[19:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4094ms or 81 ticks behind
+[19:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[19:43:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5675ms or 113 ticks behind
+[19:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5232ms or 104 ticks behind
+[19:43:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5952ms or 119 ticks behind
+[19:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6094ms or 121 ticks behind
+[19:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5978ms or 119 ticks behind
+[19:44:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5776ms or 115 ticks behind
+[19:46:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5339ms or 106 ticks behind
+[19:47:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4687ms or 93 ticks behind
+[19:47:17] [Server thread/INFO]: tioduftpank[/138.99.224.37:1912] logged in with entity id 55358 at (691.671205646422, 71.0, -447.6800423885102)
+[19:47:17] [Server thread/INFO]: tioduftpank joined the game
+[19:47:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5177ms or 103 ticks behind
+[19:47:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4082ms or 81 ticks behind
+[19:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[19:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:49:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4554ms or 91 ticks behind
+[19:49:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:50:07] [Server thread/INFO]: LilPapel lost connection: Disconnected
+[19:50:07] [Server thread/INFO]: LilPapel left the game
+[19:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
+[19:50:24] [Server thread/INFO]: RorroStaph lost connection: Disconnected
+[19:50:24] [Server thread/INFO]: RorroStaph left the game
+[19:50:26] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[19:50:26] [Server thread/INFO]: Reyxor left the game
+[19:50:28] [Server thread/INFO]: Reyxor[/201.220.114.35:54523] logged in with entity id 60399 at (1602.3125, 62.07326480791819, 1889.3125)
+[19:50:28] [Server thread/INFO]: Reyxor joined the game
+[19:50:30] [Server thread/INFO]: LilPapel[/181.43.81.187:45575] logged in with entity id 60471 at (2848.2559507007595, 62.07326457609234, -791.2146789219967)
+[19:50:30] [Server thread/INFO]: LilPapel joined the game
+[19:50:41] [Server thread/INFO]: RorroStaph[/192.168.1.169:58789] logged in with entity id 60975 at (1172.4170385320022, 64.0, -1049.2065120231116)
+[19:50:41] [Server thread/INFO]: RorroStaph joined the game
+[19:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19:51:10] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -5.521845043687108,0.0,-8.769448094993095
+[19:51:10] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -5.745473406200745,0.0,-9.100187920781082
+[19:51:10] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -5.967852956121533,0.0,-9.431827241336123
+[19:51:10] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -6.189980836560835,0.0,-9.76371823003683
+[19:51:10] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -6.413228268028433,0.0,-10.094910134435167
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -6.639208155094138,0.0,-10.424161944497655
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -6.869135483255832,0.0,-10.750410795873222
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -7.103903389594507,0.0,-11.072762900438875
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -7.344140571565276,0.0,-11.390486395208427
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -7.590260984227598,0.0,-11.703000175232091
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -7.84251141201139,0.0,-12.009854082944457
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -8.101002105331418,0.0,-12.3107194362683
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -8.36531627910972,0.0,-12.605928745567326
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -8.634631162376536,0.0,-12.896356171861044
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -8.907783586115784,0.0,-13.18329992564054
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -9.183775963342441,0.0,-13.467829776706367
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! -9.461758158822931,0.0,-13.75082293675996
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:51:11] [Server thread/WARN]: Boat (vehicle of Reyxor) moved too quickly! 6.66984061058497,0.0,7.870485054899973
+[19:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[19:53:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7738ms or 154 ticks behind
+[19:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6665ms or 133 ticks behind
+[19:53:54] [Server thread/INFO]: RorroStaph lost connection: Disconnected
+[19:53:54] [Server thread/INFO]: RorroStaph left the game
+[19:54:25] [Server thread/INFO]: Caill0u24 lost connection: Disconnected
+[19:54:25] [Server thread/INFO]: Caill0u24 left the game
+[19:54:25] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[19:54:25] [Server thread/INFO]: Reyxor left the game
+[19:54:25] [Server thread/INFO]: Happyboxx lost connection: Disconnected
+[19:54:25] [Server thread/INFO]: Happyboxx left the game
+[19:54:25] [Server thread/INFO]: tioduftpank lost connection: Disconnected
+[19:54:25] [Server thread/INFO]: tioduftpank left the game
+[19:54:25] [Server thread/INFO]: LilPapel lost connection: Disconnected
+[19:54:25] [Server thread/INFO]: LilPapel left the game
+[19:54:38] [Server thread/INFO]: LilPapel[/181.43.81.187:57476] logged in with entity id 67500 at (3012.904486180232, 62.073264030224365, -689.101922385427)
+[19:54:38] [Server thread/INFO]: LilPapel joined the game
+[19:54:38] [Server thread/INFO]: Reyxor[/201.220.114.35:62554] logged in with entity id 67502 at (853.8217096955543, 67.0, 997.3000000119209)
+[19:54:38] [Server thread/INFO]: Reyxor joined the game
+[19:54:38] [Server thread/INFO]: tioduftpank[/138.99.224.37:1882] logged in with entity id 67506 at (706.9368222256256, 72.79673560066871, -406.42003370628015)
+[19:54:38] [Server thread/INFO]: tioduftpank joined the game
+[19:54:43] [Server thread/INFO]: Happyboxx[/179.56.76.96:52858] logged in with entity id 68087 at (767.5663532652279, 69.0, -387.50225547966477)
+[19:54:43] [Server thread/INFO]: Happyboxx joined the game
+[19:55:26] [Server thread/INFO]: RorroStaph[/192.168.1.169:64247] logged in with entity id 69282 at (1156.5853013227627, 64.0, -962.7290891650496)
+[19:55:26] [Server thread/INFO]: RorroStaph joined the game
+[19:57:43] [Server thread/INFO]: tioduftpank has made the advancement [A Seedy Place]
+[19:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[19:58:36] [Server thread/WARN]: LilPapel moved too quickly! -0.6708860182407079,-0.5764407054569602,-10.255554103006148
+[19:58:36] [Server thread/WARN]: Reyxor moved too quickly! 9.622037005709672,3.2468000194787976,0.2406860424659385
+[20:00:42] [Server thread/INFO]: Caill0u24[/192.168.1.122:63277] logged in with entity id 76827 at (717.5040675977065, 67.0, -932.2367788654122)
+[20:00:42] [Server thread/INFO]: Caill0u24 joined the game
+[20:00:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[20:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[20:01:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20:02:00] [Server thread/INFO]: LilPapel lost connection: Disconnected
+[20:02:00] [Server thread/INFO]: LilPapel left the game
+[20:02:09] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[20:02:09] [Server thread/INFO]: Reyxor left the game
+[20:02:11] [Server thread/INFO]: Reyxor[/201.220.114.35:57374] logged in with entity id 78264 at (578.7737440502731, 63.0, -238.2331716972606)
+[20:02:11] [Server thread/INFO]: Reyxor joined the game
+[20:02:15] [Server thread/INFO]: LilPapel[/181.43.81.187:55308] logged in with entity id 78416 at (3543.1150848498323, 77.0, -1105.2351355604726)
+[20:02:15] [Server thread/INFO]: LilPapel joined the game
+[20:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20:04:02] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[20:04:02] [Server thread/INFO]: Reyxor left the game
+[20:05:03] [Server thread/INFO]: Reyxor[/201.220.114.35:64066] logged in with entity id 80739 at (694.0565861697814, 67.0, -395.5971670628505)
+[20:05:03] [Server thread/INFO]: Reyxor joined the game
+[20:05:32] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[20:05:32] [Server thread/INFO]: Reyxor left the game
+[20:06:21] [Server thread/INFO]: Reyxor[/201.220.114.35:56787] logged in with entity id 81714 at (690.0838025423974, 68.0, -404.69999998807907)
+[20:06:21] [Server thread/INFO]: Reyxor joined the game
+[20:07:19] [Server thread/INFO]: Happyboxx has made the advancement [Suit Up]
+[20:09:31] [Server thread/INFO]: Happyboxx has made the advancement [Cover Me with Diamonds]
+[20:09:59] [Server thread/INFO]: tioduftpank lost connection: Disconnected
+[20:09:59] [Server thread/INFO]: tioduftpank left the game
+[20:10:01] [Server thread/INFO]: tioduftpank[/138.99.224.37:1877] logged in with entity id 85100 at (651.9712487926993, 71.0, -468.56090615111964)
+[20:10:01] [Server thread/INFO]: tioduftpank joined the game
+[20:11:12] [Server thread/INFO]: tioduftpank has made the advancement [Cover Me with Diamonds]
+[20:11:39] [Server thread/INFO]: LilPapel has made the advancement [A Seedy Place]
+[20:13:08] [Server thread/INFO]: Caill0u24 lost connection: Disconnected
+[20:13:08] [Server thread/INFO]: Caill0u24 left the game
+[20:13:21] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[20:13:21] [Server thread/INFO]: Reyxor left the game
+[20:13:34] [Server thread/INFO]: Caill0u24[/192.168.1.122:59629] logged in with entity id 88031 at (737.9224418134382, 34.0, -892.6999999880791)
+[20:13:34] [Server thread/INFO]: Caill0u24 joined the game
+[20:13:43] [Server thread/INFO]: Villager bjr['Villager'/72086, l='ServerLevel[world]', x=1400.30, y=70.82, z=-1263.70] died, message: 'Villager was slain by Zombie'
+[20:13:44] [Server thread/INFO]: LilPapel has made the advancement [Sweet Dreams]
+[20:13:48] [Server thread/INFO]: Caill0u24 lost connection: Disconnected
+[20:13:48] [Server thread/INFO]: Caill0u24 left the game
+[20:13:54] [Server thread/INFO]: Caill0u24[/192.168.1.122:65210] logged in with entity id 88486 at (737.795669616364, 43.0, -901.6999999880791)
+[20:13:54] [Server thread/INFO]: Caill0u24 joined the game
+[20:14:20] [Server thread/INFO]: Reyxor[/201.220.114.35:56806] logged in with entity id 89112 at (696.6097705755144, 26.0, -491.8657647545747)
+[20:14:20] [Server thread/INFO]: Reyxor joined the game
+[20:16:17] [Server thread/INFO]: LilPapel has made the advancement [The Parrots and the Bats]
+[20:17:31] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[20:17:31] [Server thread/INFO]: Reyxor left the game
+[20:18:06] [Server thread/INFO]: Reyxor[/201.220.114.35:64719] logged in with entity id 92604 at (670.2397732353265, 47.0, -440.5176935773924)
+[20:18:07] [Server thread/INFO]: Reyxor joined the game
+[20:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[20:24:25] [Server thread/INFO]: Happyboxx lost connection: Disconnected
+[20:24:25] [Server thread/INFO]: Happyboxx left the game
+[20:24:36] [Server thread/INFO]: LilPapel lost connection: Disconnected
+[20:24:36] [Server thread/INFO]: LilPapel left the game
+[20:24:39] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[20:24:39] [Server thread/INFO]: Reyxor left the game
+[20:24:48] [Server thread/INFO]: Reyxor[/201.220.114.35:54381] logged in with entity id 99155 at (747.6911618719259, 15.0, -488.67721247325863)
+[20:24:48] [Server thread/INFO]: Reyxor joined the game
+[20:24:49] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[20:24:49] [Server thread/INFO]: Reyxor left the game
+[20:25:16] [Server thread/INFO]: LilPapel[/181.43.81.187:53452] logged in with entity id 99346 at (3727.4191191172363, 63.0, -1046.0137400835074)
+[20:25:16] [Server thread/INFO]: LilPapel joined the game
+[20:25:21] [Server thread/INFO]: Reyxor[/201.220.114.35:54389] logged in with entity id 99592 at (747.6911618719259, 15.0, -488.67721247325863)
+[20:25:21] [Server thread/INFO]: Reyxor joined the game
+[20:36:10] [Server thread/INFO]: Reyxor lost connection: Disconnected
+[20:36:10] [Server thread/INFO]: Reyxor left the game
+[20:36:26] [Server thread/INFO]: <Caill0u24> zzz
+[20:36:27] [Server thread/INFO]: <Caill0u24> zzz
+[20:36:28] [Server thread/INFO]: <Caill0u24> zzzzzzz
+[20:36:29] [Server thread/INFO]: <tioduftpank> zz
+[20:36:30] [Server thread/INFO]: <tioduftpank> zz
+[20:36:30] [Server thread/INFO]: <Caill0u24> zzzzzzzzzz
+[20:36:49] [Server thread/INFO]: Reyxor[/201.220.114.35:57357] logged in with entity id 109099 at (797.3225337811416, 56.0, -494.5990554090702)
+[20:36:49] [Server thread/INFO]: Reyxor joined the game
+[20:37:22] [Server thread/INFO]: Caill0u24 has made the advancement [Hot Stuff]
+[20:37:57] [Server thread/INFO]: Caill0u24 has made the advancement [Not Today, Thank You]
+[20:39:43] [Server thread/INFO]: Reyxor has made the advancement [We Need to Go Deeper]
+[20:39:50] [Server thread/INFO]: tioduftpank has made the advancement [We Need to Go Deeper]
+[20:41:27] [Server thread/INFO]: <Reyxor> 83.5 -60
+[20:46:06] [Server thread/INFO]: RorroStaph lost connection: Disconnected
+[20:46:06] [Server thread/INFO]: RorroStaph left the game
+[20:46:47] [Server thread/INFO]: LilPapel lost connection: Disconnected
+[20:46:47] [Server thread/INFO]: LilPapel left the game
+[20:47:05] [Server thread/INFO]: Stopping the server
+[20:47:05] [Server thread/INFO]: Stopping server
+[20:47:05] [Server thread/INFO]: Saving players
+[20:47:05] [Server thread/INFO]: tioduftpank lost connection: Internal Exception: java.lang.StackOverflowError
+[20:47:05] [Server thread/INFO]: tioduftpank left the game
+[20:47:05] [Server thread/INFO]: Saving worlds
+[20:47:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:47:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:47:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
